@@ -7,7 +7,9 @@ This article uses keras, which is a simple classification of six types of images
 
 ## Quick Start
 
-1. Download my code.
+1. Download data.
+BaiduYun: https://pan.baidu.com/s/1d2wVJJDwYj7rEP6GGepxjQ
+
 2. Change the image input path of the main function and run train.py for training.
 3. Change the image input path of the main function, run test.py to see the effect and exit the space.
 

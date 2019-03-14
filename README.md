@@ -1,5 +1,4 @@
 # A-simple-image-classification
-[![license](https://img.shields.io/github/license/mashape/apistatus.svg)](LICENSE)
 
 This article uses keras, which is a simple classification of six types of images of glaciers, rocks, cities, waters, farmlands, and forests (without the ROI box).
 
@@ -26,7 +25,7 @@ Epochs=55, batch_size=32, norm_size=256, GTX1080 (8G) training for about an hour
 
 # Author press
 
-1. Three .py codes;
+1. Some .py codes;
 
 2. A dataset data folder with training and validation sets;
 
